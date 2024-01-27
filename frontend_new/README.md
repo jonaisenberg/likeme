@@ -1,7 +1,5 @@
 # Desafio Like Me
 
-- ocupe el frontend de raul.
-
 ## Proyecto Frontend
 ![Vite](https://img.shields.io/badge/Vite-v4.4.10-gray?style=flat&logo=Vite&logoColor=white&color=646CFF)
 ![React](https://img.shields.io/badge/React-v18.2.0-gray?style=flat&logo=react&logoColor=white&color=61DAFB)
